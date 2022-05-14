@@ -75,8 +75,7 @@ This venture gives practically all the fundamental data expected to begin with S
 * Note : As this microcontroller has many advanced features and the main aim of this project is to get all basic insights, during the driver development only the required functionalities are added and other advanced functionality is not added. I may update the driver and other functionality in the future.
 Please find the STM32F4 Discovery User Manual,STM32F4xxx Reference Manual (RM0090) and other related documents inside a folder called Documents. I will be referring to these documents for information such as block diagrams, register details ect.
 
-# Overview of STM32F407VGT6 Microcontroller:
-![image](https://user-images.githubusercontent.com/101699116/168215163-99ec0ff2-693d-4425-8061-783fa20e6fb0.png)
+
 The STM32F407 Discovery board utilizes STM32F407VGT6 Microcontroller which has ARM Cortex-M4F Processor, which is fit for running upto 168Mhz. This MCU has numerous peripherals, for example, GPIO ports, TIMERS, ADCs, DACs, Flash Memory, SRAM, SPI, UART ect. The processor and peripherals talk by means of BUS-Interface. There are three transports accessible
 
 I-BUS (Instruction Bus) D-BUS (Data Bus) S-BUS (System Bus) I-BUS This transport interfaces the Instruction transport of the Cortex®-M4 with FPU(Floating point unit) center to the BusMatrix. This transport is utilized by the center to bring directions. The objective of this transport is a memory containing code (inward Flash memory/SRAM or outer recollections through the FSMC/FMC).
