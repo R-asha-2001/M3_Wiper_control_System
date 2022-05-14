@@ -36,6 +36,9 @@
 # Code Grade
 ![code grade](https://api.codiga.io/project/32913/status/svg)
 
+# code Quality
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/392bf6de2ce14b579ea74b7adabb0c46)](https://www.codacy.com/gh/R-asha-2001/M3_Wiper_control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=R-asha-2001/M3_Wiper_control_System&amp;utm_campaign=Badge_Grade)
+
 
 
 
